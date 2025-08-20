@@ -1,4 +1,4 @@
-# Projeto-Extensionista---Acessibilidade.
+
 #  Propostas Extensionistas de Alto Impacto em Acessibilidade  
 
 ##  Projeto 1 – Plataforma de Talentos Inclusivos  
